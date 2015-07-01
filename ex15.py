@@ -1,4 +1,4 @@
-#/Users/deannariddlespur/functions
+#/Users/deannariddlespur/Github/Mexico2015
 # python ex15.py ex15_sample.txt
 # 1. Above each line, write out in English what that line does.
 
